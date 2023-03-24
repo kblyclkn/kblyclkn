@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning.<br>⚡ I'm working to be a front end developer.<br>
+🌱 I’m currently learning react.<br>⚡ I'm working to be a front end developer.<br>
 
 
 ## 🌐 Socials:
